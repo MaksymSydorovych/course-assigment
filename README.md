@@ -1,9 +1,9 @@
 # JS Frameworks Course Assignment
 
 ## Description
-
 In this assigment i used my basic knowledge in React. Here i used  Wordpress instalation
-with JWT plugin for the login functionality. 
+with JWT plugin for the login functionality.
+
 ---
 
 ## App  have following paths:
