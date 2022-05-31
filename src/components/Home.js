@@ -33,7 +33,7 @@ export default function Home() {
 
 	return (
 		<Container className='mt-4'>
-			<Heading title='Welcome' />
+			<Heading title='Welcome to assigment' />
 			{pages.map(data => {
 				return (
 					<Card key={data.id} className='mt-4 card'>
