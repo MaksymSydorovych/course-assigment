@@ -5,7 +5,7 @@ In this assigment i used my basic knowledge in React. Here i used  Wordpress ins
 with JWT plugin for the login functionality.
 
 ---
-
+![image](https://res.cloudinary.com/dkombzxne/image/upload/v1654176690/portfolio/assigment-img_sl0ugl.jpg)
 ## App  have following paths:
 * "/"
 * "/detail/:param"
